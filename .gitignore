@@ -1,0 +1,13 @@
+reports/*
+!reports/.gitkeep
+__pycache__/
+output/*
+!output/.gitkeep
+token.txt
+credentials.json
+.env
+team_map.csv
+combined_season_stats.csv
+charts/*
+!charts/.gitkeep
+archive/
